@@ -1,1 +1,1 @@
-Initial commit
+jQuery library
